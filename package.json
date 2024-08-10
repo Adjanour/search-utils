@@ -12,7 +12,8 @@
   "files": [
     "dist/",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "search-utils.d.ts"
   ],
   "types": "search-utils.d.ts",
   "main": "dist/search-utils.js",
