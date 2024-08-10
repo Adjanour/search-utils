@@ -7,7 +7,7 @@
     "webpack-cli": "^5.1.4"
   },
   "name": "search-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Search Utils Library is a lightweight, modular JavaScript component library designed to enhance the performance and usability of search functionality in web applications. This library provides a suite of utility functions to streamline and optimize real-time search operations, including indexing, caching, filtering, and debouncing",
   "files": [
     "dist/",
